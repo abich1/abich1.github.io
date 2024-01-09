@@ -8,7 +8,7 @@ http://www.linkedin.com/in/abigail-chinn
 
 ## [University of Washington](https://www.washington.edu/) (Seattle, WA)
 
-<img src="https://hsasf.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png" width="10" height="10">
+<img src="https://hsasf.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png" width="100" height="100">
 
 *Bachelor of Arts; Geography: Data Science*
 

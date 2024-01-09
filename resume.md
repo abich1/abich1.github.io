@@ -2,13 +2,14 @@
 
 chinabi@uw.edu
 
-http://www.linkedin.com/in/example-abi
+http://www.linkedin.com/in/abigail-chinn
 
 # EDUCATION
 
 ## [University of Washington](https://www.washington.edu/) (Seattle, WA)
 
-![UW Logo](https://hsasf.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png)
+<img src="https://hsasf.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png" width="10" height="10">
+
 *Bachelor of Arts; Geography: Data Science*
 
 *June 2025*

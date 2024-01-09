@@ -6,15 +6,16 @@ http://www.linkedin.com/in/example-abi
 
 # EDUCATION
 
-## University of Washington (Seattle, WA)
+## [University of Washington](https://www.washington.edu/) (Seattle, WA)
 
+![UW Logo](https://hsasf.hsa.washington.edu/wp-content/uploads/2018/09/UW-Logo.png)
 *Bachelor of Arts; Geography: Data Science*
 
 *June 2025*
 
 # WORK EXPERIENCE
 
-## Housing and Food Services (Seattle, WA)
+## [Housing and Food Services](https://twww.hfs.washington.edu/Home) (Seattle, WA)
 
 ### Resident Advisor, September 2022 - Present
 
@@ -26,7 +27,7 @@ http://www.linkedin.com/in/example-abi
 - Lead housing tours of up to 30 people showing amenities and providing general information about housing on campus 
 - Assist and train new tour guides for Admitted Students Day
 
-## Center for Health and the Global Environment (Seattle, WA)
+## [Center for Health and the Global Environment](https://deohs.washington.edu/change/) (Seattle, WA)
 
 ### Climate Health Risk Tool Intern, June 2023 - August 2023
 - Reviewed 12 public health literature reviews to refine guidance on reducing public health risks from extreme heat
@@ -48,6 +49,6 @@ http://www.linkedin.com/in/example-abi
 
 # SKILLS AND INTERESTS
 
-***Technical Skills:*** R, Python, QGIS, ArcGIS Pro, R, JavaScript, HTML
+> ***Technical Skills:*** R, Python, QGIS, ArcGIS Pro, R, JavaScript, HTML
 
-***Interests:*** Sustainability, Empowerment of Minority Groups, Human-Computer Interaction
+> ***Interests:*** Sustainability, Empowerment of Minority Groups, Human-Computer Interaction

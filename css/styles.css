@@ -10825,6 +10825,19 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
   background-size: cover;
+}
+
+.end {
+  margin-bottom: 90px;
+}
+
+blockquote p {
+  padding: 15px;
+  background: #eee;
+  border-radius: 10px;
+}
+
+.link-black {
+  color: black
 }
